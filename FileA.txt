@@ -1,2 +1,3 @@
 This is file A
-this is gi
+this is gi clr
+
